@@ -3,7 +3,7 @@
     "@supabase/supabase-js": "^2.49.8"
   },
   "scripts": {
-    "start": "node index.html",
+    "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "devDependencies": {
